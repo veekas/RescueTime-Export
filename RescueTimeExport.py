@@ -12,7 +12,7 @@
 import urllib
 
 apiKey = "API_KEY"
-# change to your own API. Create a new one here: https://www.rescuetime.com/anapi/manage
+# change to your own API key. Create a new one here: https://www.rescuetime.com/anapi/manage
 fileDirectory = ""
 # change to the file directory in which you'd like the file saved
 filePrefix = "RescueTimeData"
