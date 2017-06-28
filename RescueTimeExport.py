@@ -1,5 +1,5 @@
 # install Python if you don't have it already: https://www.python.org/downloads/
-#save this files as "RTExport.py" somewhere that is easy to find
+#save this file as "RTExport.py" somewhere that is easy to find
 
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
