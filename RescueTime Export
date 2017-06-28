@@ -1,3 +1,6 @@
+# install Python if you don't have it already: https://www.python.org/downloads/
+#save this files as "RTExport.py" somewhere that is easy to find
+
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
@@ -8,8 +11,11 @@
 import urllib
 
 apiKey = "API_KEY"
+# change to your own API. Create a new one here: https://www.rescuetime.com/anapi/manage
 fileDirectory = ""
+# change to the file directory in which you'd like the file saved
 filePrefix = "RescueTimeData"
+# optional: personalize filePrefix
 
 def main():
     print "RescueTime Data Exporter"
@@ -28,3 +34,8 @@ def main():
     print ""
 
 main()
+
+# open Terminal
+# navigate to the folder where you saved this file
+# type "python ./RTExport.py" and follow the instructions to run the code
+# note that it doesn't work if the time interval is over 6 months.
