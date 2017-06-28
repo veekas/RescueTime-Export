@@ -1,3 +1,4 @@
+# I wrote these instructions for Mac. If you're running Windows, I think the only difference is that you'll open Command Prompt instead of Terminal
 # install Python if you don't have it already: https://www.python.org/downloads/
 #save this file as "RTExport.py" somewhere that is easy to find
 
