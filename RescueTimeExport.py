@@ -4,6 +4,7 @@
 # RescueTime Data Exporter
 # Dan Nixon
 # 18/09/2011
+# forked from Chris Burgess (xurizaemon)
 
 import urllib
 
