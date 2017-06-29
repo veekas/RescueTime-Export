@@ -40,3 +40,5 @@ main()
 # navigate to the folder where you saved this file using "cd [/folder/subFolder/subFolderWithFile/]"
 # type "python ./RTExport.py" and follow the instructions to run the code
 # note that it doesn't work if the time interval is over 6 months.
+
+#test
